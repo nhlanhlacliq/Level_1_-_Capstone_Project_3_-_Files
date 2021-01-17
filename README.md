@@ -1,6 +1,6 @@
-# Level_1_-_Capstone_Project_3_-_Files
+# Task Manager
 
-_A task manager program created to keep track of tasks_
+_A task manager program created to keep track of tasks using txt files_
 
 The program uses two txt files to store data:
 * tasks.txt stores a list of all the tasks being worked on, in the following order:
